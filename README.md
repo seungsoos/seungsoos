@@ -1,4 +1,4 @@
-<!-- <div align="center">
+ <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:bfbdf4,100:fcdae4&fontColor=ffffff&height=200&section=header&text=Seungsoo&fontSize=70&animation=fadeIn&fontAlign=25&fontAlignY=38&desc=Backend%20Developer&descAlignY=43&descAlign=60)
 </div>
@@ -38,7 +38,3 @@
   
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:bfbdf4,100:fcdae4)
 </div>
-
-
--->
-
