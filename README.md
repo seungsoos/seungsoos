@@ -32,6 +32,12 @@
   <img src="https://img.shields.io/badge/rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
 </p>
 
+  #### ETC
+<p>
+  <img src="https://img.shields.io/badge/Slack-#4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/mac-#000000?style=for-the-badge&logo=macos&logoColor=white">
+</p>
+
 <div align="center">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungsoos&show_icons=true&theme=transparent)
