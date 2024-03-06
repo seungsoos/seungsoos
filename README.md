@@ -20,6 +20,7 @@
   #### Skill
 <p>
   <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+ <img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=Junit&logoColor=white">
 </p>
   
   #### Cloud
