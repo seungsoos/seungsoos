@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+ <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 </p>
 
   #### DB
@@ -20,7 +21,7 @@
   #### Skill
 <p>
   <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
- <img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=Junit&logoColor=white">
+ <img src="https://img.shields.io/badge/Junit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 </p>
   
   #### Cloud
